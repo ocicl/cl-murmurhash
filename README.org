@@ -1,0 +1,9 @@
+* cl-murmurhash
+
+The 32-bit version of Murmurhash3 for Common Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/ruricolist/cl-murmurhash.git |
+| commit  | 5433f5e                                             |
+| systems | cl-murmurhash                                       |
+|---------+-----------------------------------------------------|
