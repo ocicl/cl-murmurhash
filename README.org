@@ -7,3 +7,4 @@ The 32-bit version of Murmurhash3 for Common Lisp.
 | commit  | 5433f5e                                             |
 | systems | cl-murmurhash                                       |
 |---------+-----------------------------------------------------|
+ 
